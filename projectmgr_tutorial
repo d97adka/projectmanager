@@ -1,0 +1,22 @@
+This is Youtube React tutorial
+https://www.youtube.com/watch?v=A71aqufiNtQ&t
+This example uses more modern ES6 syntax
+
+React home page: https://facebook.github.io/react/
+
+JSX - JavaScript Syntax Extension - preprocessor step that adds XML syntax to JavaScript
+Babel is a compiler that lets you write modern JavaScript code that still works in older browsers.
+
+To install react application:
+https://facebook.github.io/react/docs/installation.html
+sudo npm install -g create-react-app
+create-react-app NAME_OF_YOUR_APP
+cd NAME_OF_YOUR_APP
+npm start
+
+This creates a basic React application and starts it.
+
+To build for production you would run:
+npm run build
+
+Done until time 23:30
